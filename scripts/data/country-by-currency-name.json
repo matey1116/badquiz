@@ -1,0 +1,973 @@
+[{
+    "name": "Afghanistan",
+    "data": "Afghanistan Afghani"
+  },
+  {
+    "name": "Albania",
+    "data": "Albanian Lek"
+  },
+  {
+    "name": "Algeria",
+    "data": "Algerian Dinar"
+  },
+  {
+    "name": "American Samoa",
+    "data": "US Dollar"
+  },
+  {
+    "name": "Andorra",
+    "data": "Euro"
+  },
+  {
+    "name": "Angola",
+    "data": "Angolan Kwanza"
+  },
+  {
+    "name": "Anguilla",
+    "data": "East Caribbean Dollar"
+  },
+  {
+    "name": "Antarctica",
+    "data": "East Caribbean Dollar"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "data": "East Caribbean Dollar"
+  },
+  {
+    "name": "Argentina",
+    "data": "Argentine Peso"
+  },
+  {
+    "name": "Armenia",
+    "data": "Armenian Dram"
+  },
+  {
+    "name": "Aruba",
+    "data": "Aruban Guilder"
+  },
+  {
+    "name": "Australia",
+    "data": "Australian Dollar"
+  },
+  {
+    "name": "Austria",
+    "data": "Euro"
+  },
+  {
+    "name": "Azerbaijan",
+    "data": "Azerbaijan New Manat"
+  },
+  {
+    "name": "Bahamas",
+    "data": "Bahamian Dollar"
+  },
+  {
+    "name": "Bahrain",
+    "data": "Bahraini Dinar"
+  },
+  {
+    "name": "Bangladesh",
+    "data": "Bangladeshi Taka"
+  },
+  {
+    "name": "Barbados",
+    "data": "Barbados Dollar"
+  },
+  {
+    "name": "Belarus",
+    "data": "Belarussian Ruble"
+  },
+  {
+    "name": "Belgium",
+    "data": "Euro"
+  },
+  {
+    "name": "Belize",
+    "data": "Belize Dollar"
+  },
+  {
+    "name": "Benin",
+    "data": "CFA Franc BCEAO"
+  },
+  {
+    "name": "Bermuda",
+    "data": "Bermudian Dollar"
+  },
+  {
+    "name": "Bhutan",
+    "data": "Bhutan Ngultrum"
+  },
+  {
+    "name": "Bolivia",
+    "data": "Boliviano"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "data": null
+  },
+  {
+    "name": "Botswana",
+    "data": "Botswana Pula"
+  },
+  {
+    "name": "Bouvet Island",
+    "data": "Norwegian Krone"
+  },
+  {
+    "name": "Brazil",
+    "data": "Brazilian Real"
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "data": "US Dollar"
+  },
+  {
+    "name": "Brunei",
+    "data": null
+  },
+  {
+    "name": "Bulgaria",
+    "data": "Bulgarian Lev"
+  },
+  {
+    "name": "Burkina Faso",
+    "data": "CFA Franc BCEAO"
+  },
+  {
+    "name": "Burundi",
+    "data": "Burundi Franc"
+  },
+  {
+    "name": "Cambodia",
+    "data": "Kampuchean Riel"
+  },
+  {
+    "name": "Cameroon",
+    "data": "CFA Franc BEAC"
+  },
+  {
+    "name": "Canada",
+    "data": "Canadian Dollar"
+  },
+  {
+    "name": "Cape Verde",
+    "data": "Cape Verde Escudo"
+  },
+  {
+    "name": "Cayman Islands",
+    "data": "Cayman Islands Dollar"
+  },
+  {
+    "name": "Central African Republic",
+    "data": "CFA Franc BEAC"
+  },
+  {
+    "name": "Chad",
+    "data": null
+  },
+  {
+    "name": "Chile",
+    "data": "Chilean Peso"
+  },
+  {
+    "name": "China",
+    "data": "Yuan Renminbi"
+  },
+  {
+    "name": "Christmas Island",
+    "data": "Australian Dollar"
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "data": " Australian Dollar"
+  },
+  {
+    "name": "Colombia",
+    "data": "Colombian Peso"
+  },
+  {
+    "name": "Comoros",
+    "data": "Comoros Franc"
+  },
+  {
+    "name": "Congo",
+    "data": "CFA Franc BEAC"
+  },
+  {
+    "name": "Cook Islands",
+    "data": "New Zealand Dollar"
+  },
+  {
+    "name": "Costa Rica",
+    "data": "Costa Rican Colon"
+  },
+  {
+    "name": "Croatia",
+    "data": "Croatian Kuna"
+  },
+  {
+    "name": "Cuba",
+    "data": "Cuban Peso"
+  },
+  {
+    "name": "Cyprus",
+    "data": "Euro"
+  },
+  {
+    "name": "Czech Republic",
+    "data": null
+  },
+  {
+    "name": "Denmark",
+    "data": "Danish Krone"
+  },
+  {
+    "name": "Djibouti",
+    "data": "Djibouti Franc"
+  },
+  {
+    "name": "Dominica",
+    "data": "East Caribbean Dollar"
+  },
+  {
+    "name": "Dominican Republic",
+    "data": "Dominican Peso"
+  },
+  {
+    "name": "East Timor",
+    "data": null
+  },
+  {
+    "name": "Ecuador",
+    "data": "Ecuador Sucre"
+  },
+  {
+    "name": "Egypt",
+    "data": "Egyptian Pound"
+  },
+  {
+    "name": "El Salvador",
+    "data": "El Salvador Colon"
+  },
+  {
+    "name": "England",
+    "data": null
+  },
+  {
+    "name": "Equatorial Guinea",
+    "data": "CFA Franc BEAC"
+  },
+  {
+    "name": "Eritrea",
+    "data": "Eritrean Nakfa"
+  },
+  {
+    "name": "Estonia",
+    "data": "Euro"
+  },
+  {
+    "name": "Ethiopia",
+    "data": "Ethiopian Birr"
+  },
+  {
+    "name": "Falkland Islands",
+    "data": null
+  },
+  {
+    "name": "Faroe Islands",
+    "data": " Danish Krone"
+  },
+  {
+    "name": "Fiji Islands",
+    "data": null
+  },
+  {
+    "name": "Finland",
+    "data": "Euro"
+  },
+  {
+    "name": "France",
+    "data": "Euro"
+  },
+  {
+    "name": "French Guiana",
+    "data": "Euro"
+  },
+  {
+    "name": "French Polynesia",
+    "data": null
+  },
+  {
+    "name": "French Southern territories",
+    "data": "Euro"
+  },
+  {
+    "name": "Gabon",
+    "data": "CFA Franc BEAC"
+  },
+  {
+    "name": "Gambia",
+    "data": "Gambian Dalasi"
+  },
+  {
+    "name": "Georgia",
+    "data": "Georgian Lari"
+  },
+  {
+    "name": "Germany",
+    "data": "Euro"
+  },
+  {
+    "name": "Ghana",
+    "data": "Ghanaian Cedi"
+  },
+  {
+    "name": "Gibraltar",
+    "data": "Gibraltar Pound"
+  },
+  {
+    "name": "Greece",
+    "data": "Euro"
+  },
+  {
+    "name": "Greenland",
+    "data": "Danish Krone"
+  },
+  {
+    "name": "Grenada",
+    "data": "East Carribean Dollar"
+  },
+  {
+    "name": "Guadeloupe",
+    "data": null
+  },
+  {
+    "name": "Guam",
+    "data": null
+  },
+  {
+    "name": "Guatemala",
+    "data": "Guatemalan Quetzal"
+  },
+  {
+    "name": "Guinea",
+    "data": "Guinea Franc"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "data": null
+  },
+  {
+    "name": "Guyana",
+    "data": "Guyana Dollar"
+  },
+  {
+    "name": "Haiti",
+    "data": "Haitian Gourde"
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "data": "Australian Dollar"
+  },
+  {
+    "name": "Holy See (Vatican City State)",
+    "data": null
+  },
+  {
+    "name": "Honduras",
+    "data": "Honduran Lempira"
+  },
+  {
+    "name": "Hong Kong",
+    "data": "Hong Kong Dollar"
+  },
+  {
+    "name": "Hungary",
+    "data": "Hungarian Forint"
+  },
+  {
+    "name": "Iceland",
+    "data": "Iceland Krona"
+  },
+  {
+    "name": "India",
+    "data": "Indian Rupee"
+  },
+  {
+    "name": "Indonesia",
+    "data": "Indonesian Rupiah"
+  },
+  {
+    "name": "Iran",
+    "data": "Iranian Rial"
+  },
+  {
+    "name": "Iraq",
+    "data": "Iraqi Dinar"
+  },
+  {
+    "name": "Ireland",
+    "data": "Euro"
+  },
+  {
+    "name": "Israel",
+    "data": "Israeli New Shekel"
+  },
+  {
+    "name": "Italy",
+    "data": "Euro"
+  },
+  {
+    "name": "Ivory Coast",
+    "data": "CFA Franc BCEAO"
+  },
+  {
+    "name": "Jamaica",
+    "data": "Jamaican Dollar"
+  },
+  {
+    "name": "Japan",
+    "data": "Japanese Yen"
+  },
+  {
+    "name": "Jordan",
+    "data": "Jordanian Dinar"
+  },
+  {
+    "name": "Kazakstan",
+    "data": null
+  },
+  {
+    "name": "Kenya",
+    "data": "Kenyan Shilling"
+  },
+  {
+    "name": "Kiribati",
+    "data": "Australian Dollar"
+  },
+  {
+    "name": "Kuwait",
+    "data": "Kuwaiti Dinar"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "data": "Som"
+  },
+  {
+    "name": "Laos",
+    "data": "Lao Kip"
+  },
+  {
+    "name": "Latvia",
+    "data": "Latvian Lats"
+  },
+  {
+    "name": "Lebanon",
+    "data": "Lebanese Pound"
+  },
+  {
+    "name": "Lesotho",
+    "data": "Lesotho Loti"
+  },
+  {
+    "name": "Liberia",
+    "data": "Liberian Dollar"
+  },
+  {
+    "name": "Libyan Arab Jamahiriya",
+    "data": null
+  },
+  {
+    "name": "Liechtenstein",
+    "data": "Swiss Franc"
+  },
+  {
+    "name": "Lithuania",
+    "data": "Lithuanian Litas"
+  },
+  {
+    "name": "Luxembourg",
+    "data": "Euro"
+  },
+  {
+    "name": "Macao",
+    "data": null
+  },
+  {
+    "name": "Macedonia",
+    "data": "Denar"
+  },
+  {
+    "name": "Madagascar",
+    "data": "Malagasy Franc"
+  },
+  {
+    "name": "Malawi",
+    "data": "Malawi Kwacha"
+  },
+  {
+    "name": "Malaysia",
+    "data": "Malaysian Ringgit"
+  },
+  {
+    "name": "Maldives",
+    "data": "Maldive Rufiyaa"
+  },
+  {
+    "name": "Mali",
+    "data": "CFA Franc BCEAO"
+  },
+  {
+    "name": "Malta",
+    "data": "Euro"
+  },
+  {
+    "name": "Marshall Islands",
+    "data": "US Dollar"
+  },
+  {
+    "name": "Martinique",
+    "data": null
+  },
+  {
+    "name": "Mauritania",
+    "data": "Mauritanian Ouguiya"
+  },
+  {
+    "name": "Mauritius",
+    "data": "Mauritius Rupee"
+  },
+  {
+    "name": "Mayotte",
+    "data": "Euro"
+  },
+  {
+    "name": "Mexico",
+    "data": "Mexican Nuevo Peso"
+  },
+  {
+    "name": "Micronesia, Federated States of",
+    "data": null
+  },
+  {
+    "name": "Moldova",
+    "data": "Moldovan Leu"
+  },
+  {
+    "name": "Monaco",
+    "data": null
+  },
+  {
+    "name": "Mongolia",
+    "data": "Mongolian Tugrik"
+  },
+  {
+    "name": "Montserrat",
+    "data": "East Caribbean Dollar"
+  },
+  {
+    "name": "Morocco",
+    "data": "Moroccan Dirham"
+  },
+  {
+    "name": "Mozambique",
+    "data": "Mozambique Metical"
+  },
+  {
+    "name": "Myanmar",
+    "data": "Myanmar Kyat"
+  },
+  {
+    "name": "Namibia",
+    "data": "Namibian Dollar"
+  },
+  {
+    "name": "Nauru",
+    "data": "Australian Dollar"
+  },
+  {
+    "name": "Nepal",
+    "data": "Nepalese Rupee"
+  },
+  {
+    "name": "Netherlands",
+    "data": "Euro"
+  },
+  {
+    "name": "Netherlands Antilles",
+    "data": "Netherlands Antillean Guilder"
+  },
+  {
+    "name": "New Caledonia",
+    "data": null
+  },
+  {
+    "name": "New Zealand",
+    "data": "New Zealand Dollar"
+  },
+  {
+    "name": "Nicaragua",
+    "data": "Nicaraguan Cordoba Oro"
+  },
+  {
+    "name": "Niger",
+    "data": "CFA Franc BCEAO"
+  },
+  {
+    "name": "Nigeria",
+    "data": "Nigerian Naira"
+  },
+  {
+    "name": "Niue",
+    "data": "New Zealand Dollar"
+  },
+  {
+    "name": "Norfolk Island",
+    "data": "Australian Dollar"
+  },
+  {
+    "name": "North Korea",
+    "data": "North Korean Won"
+  },
+  {
+    "name": "Northern Ireland",
+    "data": null
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "data": "US Dollar"
+  },
+  {
+    "name": "Norway",
+    "data": "Norwegian Krone"
+  },
+  {
+    "name": "Oman",
+    "data": "Omani Rial"
+  },
+  {
+    "name": "Pakistan",
+    "data": "Pakistan Rupee"
+  },
+  {
+    "name": "Palau",
+    "data": "US Dollar"
+  },
+  {
+    "name": "Palestine",
+    "data": null
+  },
+  {
+    "name": "Panama",
+    "data": "Panamanian Balboa"
+  },
+  {
+    "name": "Papua New Guinea",
+    "data": "Papua New Guinea Kina"
+  },
+  {
+    "name": "Paraguay",
+    "data": "Paraguay Guarani"
+  },
+  {
+    "name": "Peru",
+    "data": "Peruvian Nuevo Sol"
+  },
+  {
+    "name": "Philippines",
+    "data": "Philippine Peso"
+  },
+  {
+    "name": "Pitcairn",
+    "data": null
+  },
+  {
+    "name": "Poland",
+    "data": "Polish Zloty"
+  },
+  {
+    "name": "Portugal",
+    "data": "Euro"
+  },
+  {
+    "name": "Puerto Rico",
+    "data": "US Dollar"
+  },
+  {
+    "name": "Qatar",
+    "data": "Qatari Rial"
+  },
+  {
+    "name": "Reunion",
+    "data": null
+  },
+  {
+    "name": "Romania",
+    "data": "Romanian New Leu"
+  },
+  {
+    "name": "Russian Federation",
+    "data": null
+  },
+  {
+    "name": "Rwanda",
+    "data": "Rwanda Franc"
+  },
+  {
+    "name": "Saint Helena",
+    "data": "St. Helena Pound"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "data": null
+  },
+  {
+    "name": "Saint Lucia",
+    "data": "East Caribbean Dollar"
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "data": " Euro"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "data": "East Caribbean Dollar"
+  },
+  {
+    "name": "Samoa",
+    "data": "Samoan Tala"
+  },
+  {
+    "name": "San Marino",
+    "data": "Euro"
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "data": " Dobra"
+  },
+  {
+    "name": "Saudi Arabia",
+    "data": "Saudi Riyal"
+  },
+  {
+    "name": "Scotland",
+    "data": null
+  },
+  {
+    "name": "Senegal",
+    "data": "CFA Franc BCEAO"
+  },
+  {
+    "name": "Seychelles",
+    "data": "Seychelles Rupee"
+  },
+  {
+    "name": "Sierra Leone",
+    "data": "Sierra Leone Leone"
+  },
+  {
+    "name": "Singapore",
+    "data": "Singapore Dollar"
+  },
+  {
+    "name": "Slovakia",
+    "data": "Euro"
+  },
+  {
+    "name": "Slovenia",
+    "data": "Euro"
+  },
+  {
+    "name": "Solomon Islands",
+    "data": "Solomon Islands Dollar"
+  },
+  {
+    "name": "Somalia",
+    "data": "Somali Shilling"
+  },
+  {
+    "name": "South Africa",
+    "data": "South African Rand"
+  },
+  {
+    "name": "South Georgia and the South Sandwich Islands",
+    "data": "Pound Sterling"
+  },
+  {
+    "name": "South Korea",
+    "data": "Korean Won"
+  },
+  {
+    "name": "South Sudan",
+    "data": "South Sudan Pound"
+  },
+  {
+    "name": "Spain",
+    "data": "Euro"
+  },
+  {
+    "name": "SriLanka",
+    "data": null
+  },
+  {
+    "name": "Sudan",
+    "data": "Sudanese Pound"
+  },
+  {
+    "name": "Suriname",
+    "data": "Surinam Dollar"
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "data": null
+  },
+  {
+    "name": "Swaziland",
+    "data": "Swaziland Lilangeni"
+  },
+  {
+    "name": "Sweden",
+    "data": "Swedish Krona"
+  },
+  {
+    "name": "Switzerland",
+    "data": "Swiss Franc"
+  },
+  {
+    "name": "Syria",
+    "data": "Syrian Pound"
+  },
+  {
+    "name": "Tajikistan",
+    "data": "Tajik Somoni"
+  },
+  {
+    "name": "Tanzania",
+    "data": "Tanzanian Shilling"
+  },
+  {
+    "name": "Thailand",
+    "data": "Thai Baht"
+  },
+  {
+    "name": "The Democratic Republic of Congo",
+    "data": null
+  },
+  {
+    "name": "Togo",
+    "data": "CFA Franc BCEAO"
+  },
+  {
+    "name": "Tokelau",
+    "data": "New Zealand Dollar"
+  },
+  {
+    "name": "Tonga",
+    "data": "Tongan Pa'anga"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "data": "Trinidad and Tobago Dollar"
+  },
+  {
+    "name": "Tunisia",
+    "data": "Tunisian Dollar"
+  },
+  {
+    "name": "Turkey",
+    "data": "Turkish Lira"
+  },
+  {
+    "name": "Turkmenistan",
+    "data": "Manat"
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "data": null
+  },
+  {
+    "name": "Tuvalu",
+    "data": "Australian Dollar"
+  },
+  {
+    "name": "Uganda",
+    "data": "Uganda Shilling"
+  },
+  {
+    "name": "Ukraine",
+    "data": "Ukraine Hryvnia"
+  },
+  {
+    "name": "United Arab Emirates",
+    "data": "Arab Emirates Dirham"
+  },
+  {
+    "name": "United Kingdom",
+    "data": null
+  },
+  {
+    "name": "United States",
+    "data": null
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "data": null
+  },
+  {
+    "name": "Uruguay",
+    "data": "Uruguayan Peso"
+  },
+  {
+    "name": "Uzbekistan",
+    "data": "Uzbekistan Sum"
+  },
+  {
+    "name": "Vanuatu",
+    "data": "Vanuatu Vatu"
+  },
+  {
+    "name": "Venezuela",
+    "data": "Venezuelan Bolivar"
+  },
+  {
+    "name": "Vietnam",
+    "data": "Vietnamese Dong"
+  },
+  {
+    "name": "Virgin Islands, British",
+    "data": null
+  },
+  {
+    "name": "Virgin Islands, U.S.",
+    "data": null
+  },
+  {
+    "name": "Wales",
+    "data": null
+  },
+  {
+    "name": "Wallis and Futuna",
+    "data": null
+  },
+  {
+    "name": "Western Sahara",
+    "data": "Moroccan Dirham"
+  },
+  {
+    "name": "Yemen",
+    "data": "Yemeni Rial"
+  },
+  {
+    "name": "Yugoslavia",
+    "data": null
+  },
+  {
+    "name": "Zambia",
+    "data": "Zambian Kwacha"
+  },
+  {
+    "name": "Zimbabwe",
+    "data": "Zimbabwe Dollar"
+  }
+]

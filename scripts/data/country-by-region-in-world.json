@@ -1,0 +1,962 @@
+[
+    {
+        "name": "Afghanistan",
+        "data": "Southern and Central Asia"
+    },
+    {
+        "name": "Albania",
+        "data": "Southern Europe"
+    },
+    {
+        "name": "Algeria",
+        "data": "Northern Africa"
+    },
+    {
+        "name": "American Samoa",
+        "data": "Polynesia"
+    },
+    {
+        "name": "Andorra",
+        "data": "Southern Europe"
+    },
+    {
+        "name": "Angola",
+        "data": "Central Africa"
+    },
+    {
+        "name": "Anguilla",
+        "data": "Caribbean"
+    },
+    {
+        "name": "Antarctica",
+        "data": "Antarctica"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "data": "Caribbean"
+    },
+    {
+        "name": "Argentina",
+        "data": "South America"
+    },
+    {
+        "name": "Armenia",
+        "data": "Middle East"
+    },
+    {
+        "name": "Aruba",
+        "data": "Caribbean"
+    },
+    {
+        "name": "Australia",
+        "data": "Australia and New Zealand"
+    },
+    {
+        "name": "Austria",
+        "data": "Western Europe"
+    },
+    {
+        "name": "Azerbaijan",
+        "data": "Middle East"
+    },
+    {
+        "name": "Bahamas",
+        "data": "Caribbean"
+    },
+    {
+        "name": "Bahrain",
+        "data": "Middle East"
+    },
+    {
+        "name": "Bangladesh",
+        "data": "Southern and Central Asia"
+    },
+    {
+        "name": "Barbados",
+        "data": "Caribbean"
+    },
+    {
+        "name": "Belarus",
+        "data": "Eastern Europe"
+    },
+    {
+        "name": "Belgium",
+        "data": "Western Europe"
+    },
+    {
+        "name": "Belize",
+        "data": "Central America"
+    },
+    {
+        "name": "Benin",
+        "data": "Western Africa"
+    },
+    {
+        "name": "Bermuda",
+        "data": "North America"
+    },
+    {
+        "name": "Bhutan",
+        "data": "Southern and Central Asia"
+    },
+    {
+        "name": "Bolivia",
+        "data": "South America"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "data": "Southern Europe"
+    },
+    {
+        "name": "Botswana",
+        "data": "Southern Africa"
+    },
+    {
+        "name": "Bouvet Island",
+        "data": "Antarctica"
+    },
+    {
+        "name": "Brazil",
+        "data": "South America"
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "data": "Eastern Africa"
+    },
+    {
+        "name": "Brunei",
+        "data": "Southeast Asia"
+    },
+    {
+        "name": "Bulgaria",
+        "data": "Eastern Europe"
+    },
+    {
+        "name": "Burkina Faso",
+        "data": "Western Africa"
+    },
+    {
+        "name": "Burundi",
+        "data": "Eastern Africa"
+    },
+    {
+        "name": "Cambodia",
+        "data": "Southeast Asia"
+    },
+    {
+        "name": "Cameroon",
+        "data": "Central Africa"
+    },
+    {
+        "name": "Canada",
+        "data": "North America"
+    },
+    {
+        "name": "Cape Verde",
+        "data": "Western Africa"
+    },
+    {
+        "name": "Cayman Islands",
+        "data": "Caribbean"
+    },
+    {
+        "name": "Central African Republic",
+        "data": "Central Africa"
+    },
+    {
+        "name": "Chad",
+        "data": "Central Africa"
+    },
+    {
+        "name": "Chile",
+        "data": "South America"
+    },
+    {
+        "name": "China",
+        "data": "Eastern Asia"
+    },
+    {
+        "name": "Christmas Island",
+        "data": "Australia and New Zealand"
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "data": "Australia and New Zealand"
+    },
+    {
+        "name": "Colombia",
+        "data": "South America"
+    },
+    {
+        "name": "Comoros",
+        "data": "Eastern Africa"
+    },
+    {
+        "name": "Congo",
+        "data": "Central Africa"
+    },
+    {
+        "name": "Cook Islands",
+        "data": "Polynesia"
+    },
+    {
+        "name": "Costa Rica",
+        "data": "Central America"
+    },
+    {
+        "name": "Croatia",
+        "data": "Southern Europe"
+    },
+    {
+        "name": "Cuba",
+        "data": "Caribbean"
+    },
+    {
+        "name": "Cyprus",
+        "data": "Middle East"
+    },
+    {
+        "name": "Czech Republic",
+        "data": "Eastern Europe"
+    },
+    {
+        "name": "Denmark",
+        "data": "Nordic Countries"
+    },
+    {
+        "name": "Djibouti",
+        "data": "Eastern Africa"
+    },
+    {
+        "name": "Dominica",
+        "data": "Caribbean"
+    },
+    {
+        "name": "Dominican Republic",
+        "data": "Caribbean"
+    },
+    {
+        "name": "East Timor",
+        "data": "Southeast Asia"
+    },
+    {
+        "name": "Ecuador",
+        "data": "South America"
+    },
+    {
+        "name": "Egypt",
+        "data": "Northern Africa"
+    },
+    {
+        "name": "El Salvador",
+        "data": "Central America"
+    },
+    {
+        "name": "England",
+        "data": "British Isles"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "data": "Central Africa"
+    },
+    {
+        "name": "Eritrea",
+        "data": "Eastern Africa"
+    },
+    {
+        "name": "Estonia",
+        "data": "Baltic Countries"
+    },
+    {
+        "name": "Ethiopia",
+        "data": "Eastern Africa"
+    },
+    {
+        "name": "Falkland Islands",
+        "data": "South America"
+    },
+    {
+        "name": "Faroe Islands",
+        "data": "Nordic Countries"
+    },
+    {
+        "name": "Fiji Islands",
+        "data": "Melanesia"
+    },
+    {
+        "name": "Finland",
+        "data": "Nordic Countries"
+    },
+    {
+        "name": "France",
+        "data": "Western Europe"
+    },
+    {
+        "name": "French Guiana",
+        "data": "South America"
+    },
+    {
+        "name": "French Polynesia",
+        "data": "Polynesia"
+    },
+    {
+        "name": "French Southern territories",
+        "data": "Antarctica"
+    },
+    {
+        "name": "Gabon",
+        "data": "Central Africa"
+    },
+    {
+        "name": "Gambia",
+        "data": "Western Africa"
+    },
+    {
+        "name": "Georgia",
+        "data": "Middle East"
+    },
+    {
+        "name": "Germany",
+        "data": "Western Europe"
+    },
+    {
+        "name": "Ghana",
+        "data": "Western Africa"
+    },
+    {
+        "name": "Gibraltar",
+        "data": "Southern Europe"
+    },
+    {
+        "name": "Greece",
+        "data": "Southern Europe"
+    },
+    {
+        "name": "Greenland",
+        "data": "North America"
+    },
+    {
+        "name": "Grenada",
+        "data": "Caribbean"
+    },
+    {
+        "name": "Guadeloupe",
+        "data": "Caribbean"
+    },
+    {
+        "name": "Guam",
+        "data": "Micronesia"
+    },
+    {
+        "name": "Guatemala",
+        "data": "Central America"
+    },
+    {
+        "name": "Guinea",
+        "data": "Western Africa"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "data": "Western Africa"
+    },
+    {
+        "name": "Guyana",
+        "data": "South America"
+    },
+    {
+        "name": "Haiti",
+        "data": "Caribbean"
+    },
+    {
+        "name": "Heard Island and McDonald Islands",
+        "data": "Antarctica"
+    },
+    {
+        "name": "Holy See (Vatican City State)",
+        "data": "Southern Europe"
+    },
+    {
+        "name": "Honduras",
+        "data": "Central America"
+    },
+    {
+        "name": "Hong Kong",
+        "data": "Eastern Asia"
+    },
+    {
+        "name": "Hungary",
+        "data": "Eastern Europe"
+    },
+    {
+        "name": "Iceland",
+        "data": "Nordic Countries"
+    },
+    {
+        "name": "India",
+        "data": "Southern and Central Asia"
+    },
+    {
+        "name": "Indonesia",
+        "data": "Southeast Asia"
+    },
+    {
+        "name": "Iran",
+        "data": "Southern and Central Asia"
+    },
+    {
+        "name": "Iraq",
+        "data": "Middle East"
+    },
+    {
+        "name": "Ireland",
+        "data": "British Isles"
+    },
+    {
+        "name": "Israel",
+        "data": "Middle East"
+    },
+    {
+        "name": "Italy",
+        "data": "Southern Europe"
+    },
+    {
+        "name": "Ivory Coast",
+        "data": "Western Africa"
+    },
+    {
+        "name": "Jamaica",
+        "data": "Caribbean"
+    },
+    {
+        "name": "Japan",
+        "data": "Eastern Asia"
+    },
+    {
+        "name": "Jordan",
+        "data": "Middle East"
+    },
+    {
+        "name": "Kazakstan",
+        "data": "Southern and Central Asia"
+    },
+    {
+        "name": "Kenya",
+        "data": "Eastern Africa"
+    },
+    {
+        "name": "Kiribati",
+        "data": "Micronesia"
+    },
+    {
+        "name": "Kuwait",
+        "data": "Middle East"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "data": "Southern and Central Asia"
+    },
+    {
+        "name": "Laos",
+        "data": "Southeast Asia"
+    },
+    {
+        "name": "Latvia",
+        "data": "Baltic Countries"
+    },
+    {
+        "name": "Lebanon",
+        "data": "Middle East"
+    },
+    {
+        "name": "Lesotho",
+        "data": "Southern Africa"
+    },
+    {
+        "name": "Liberia",
+        "data": "Western Africa"
+    },
+    {
+        "name": "Libyan Arab Jamahiriya",
+        "data": "Northern Africa"
+    },
+    {
+        "name": "Liechtenstein",
+        "data": "Western Europe"
+    },
+    {
+        "name": "Lithuania",
+        "data": "Baltic Countries"
+    },
+    {
+        "name": "Luxembourg",
+        "data": "Western Europe"
+    },
+    {
+        "name": "Macao",
+        "data": "Eastern Asia"
+    },
+    {
+        "name": "Macedonia",
+        "data": "Southern Europe"
+    },
+    {
+        "name": "Madagascar",
+        "data": "Eastern Africa"
+    },
+    {
+        "name": "Malawi",
+        "data": "Eastern Africa"
+    },
+    {
+        "name": "Malaysia",
+        "data": "Southeast Asia"
+    },
+    {
+        "name": "Maldives",
+        "data": "Southern and Central Asia"
+    },
+    {
+        "name": "Mali",
+        "data": "Western Africa"
+    },
+    {
+        "name": "Malta",
+        "data": "Southern Europe"
+    },
+    {
+        "name": "Marshall Islands",
+        "data": "Micronesia"
+    },
+    {
+        "name": "Martinique",
+        "data": "Caribbean"
+    },
+    {
+        "name": "Mauritania",
+        "data": "Western Africa"
+    },
+    {
+        "name": "Mauritius",
+        "data": "Eastern Africa"
+    },
+    {
+        "name": "Mayotte",
+        "data": "Eastern Africa"
+    },
+    {
+        "name": "Mexico",
+        "data": "Central America"
+    },
+    {
+        "name": "Micronesia, Federated States of",
+        "data": "Micronesia"
+    },
+    {
+        "name": "Moldova",
+        "data": "Eastern Europe"
+    },
+    {
+        "name": "Monaco",
+        "data": "Western Europe"
+    },
+    {
+        "name": "Mongolia",
+        "data": "Eastern Asia"
+    },
+    {
+        "name": "Montserrat",
+        "data": "Caribbean"
+    },
+    {
+        "name": "Morocco",
+        "data": "Northern Africa"
+    },
+    {
+        "name": "Mozambique",
+        "data": "Eastern Africa"
+    },
+    {
+        "name": "Myanmar",
+        "data": "Southeast Asia"
+    },
+    {
+        "name": "Namibia",
+        "data": "Southern Africa"
+    },
+    {
+        "name": "Nauru",
+        "data": "Micronesia"
+    },
+    {
+        "name": "Nepal",
+        "data": "Southern and Central Asia"
+    },
+    {
+        "name": "Netherlands",
+        "data": "Western Europe"
+    },
+    {
+        "name": "Netherlands Antilles",
+        "data": "Caribbean"
+    },
+    {
+        "name": "New Caledonia",
+        "data": "Melanesia"
+    },
+    {
+        "name": "New Zealand",
+        "data": "Australia and New Zealand"
+    },
+    {
+        "name": "Nicaragua",
+        "data": "Central America"
+    },
+    {
+        "name": "Niger",
+        "data": "Western Africa"
+    },
+    {
+        "name": "Nigeria",
+        "data": "Western Africa"
+    },
+    {
+        "name": "Niue",
+        "data": "Polynesia"
+    },
+    {
+        "name": "Norfolk Island",
+        "data": "Australia and New Zealand"
+    },
+    {
+        "name": "North Korea",
+        "data": "Eastern Asia"
+    },
+    {
+        "name": "Northern Ireland",
+        "data": "British Isles"
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "data": "Micronesia"
+    },
+    {
+        "name": "Norway",
+        "data": "Nordic Countries"
+    },
+    {
+        "name": "Oman",
+        "data": "Middle East"
+    },
+    {
+        "name": "Pakistan",
+        "data": "Southern and Central Asia"
+    },
+    {
+        "name": "Palau",
+        "data": "Micronesia"
+    },
+    {
+        "name": "Palestine",
+        "data": "Middle East"
+    },
+    {
+        "name": "Panama",
+        "data": "Central America"
+    },
+    {
+        "name": "Papua New Guinea",
+        "data": "Melanesia"
+    },
+    {
+        "name": "Paraguay",
+        "data": "South America"
+    },
+    {
+        "name": "Peru",
+        "data": "South America"
+    },
+    {
+        "name": "Philippines",
+        "data": "Southeast Asia"
+    },
+    {
+        "name": "Pitcairn",
+        "data": "Polynesia"
+    },
+    {
+        "name": "Poland",
+        "data": "Eastern Europe"
+    },
+    {
+        "name": "Portugal",
+        "data": "Southern Europe"
+    },
+    {
+        "name": "Puerto Rico",
+        "data": "Caribbean"
+    },
+    {
+        "name": "Qatar",
+        "data": "Middle East"
+    },
+    {
+        "name": "Reunion",
+        "data": "Eastern Africa"
+    },
+    {
+        "name": "Romania",
+        "data": "Eastern Europe"
+    },
+    {
+        "name": "Russian Federation",
+        "data": "Eastern Europe"
+    },
+    {
+        "name": "Rwanda",
+        "data": "Eastern Africa"
+    },
+    {
+        "name": "Saint Helena",
+        "data": "Western Africa"
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "data": "Caribbean"
+    },
+    {
+        "name": "Saint Lucia",
+        "data": "Caribbean"
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "data": "North America"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "data": "Caribbean"
+    },
+    {
+        "name": "Samoa",
+        "data": "Polynesia"
+    },
+    {
+        "name": "San Marino",
+        "data": "Southern Europe"
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "data": "Central Africa"
+    },
+    {
+        "name": "Saudi Arabia",
+        "data": "Middle East"
+    },
+    {
+        "name": "Scotland",
+        "data": "British Isles"
+    },
+    {
+        "name": "Senegal",
+        "data": "Western Africa"
+    },
+    {
+        "name": "Seychelles",
+        "data": "Eastern Africa"
+    },
+    {
+        "name": "Sierra Leone",
+        "data": "Western Africa"
+    },
+    {
+        "name": "Singapore",
+        "data": "Southeast Asia"
+    },
+    {
+        "name": "Slovakia",
+        "data": "Eastern Europe"
+    },
+    {
+        "name": "Slovenia",
+        "data": "Southern Europe"
+    },
+    {
+        "name": "Solomon Islands",
+        "data": "Melanesia"
+    },
+    {
+        "name": "Somalia",
+        "data": "Eastern Africa"
+    },
+    {
+        "name": "South Africa",
+        "data": "Southern Africa"
+    },
+    {
+        "name": "South Georgia and the South Sandwich Islands",
+        "data": "Antarctica"
+    },
+    {
+        "name": "South Korea",
+        "data": "Eastern Asia"
+    },
+    {
+        "name": "South Sudan",
+        "data": "Eastern Africa"
+    },
+    {
+        "name": "Spain",
+        "data": "Southern Europe"
+    },
+    {
+        "name": "Sudan",
+        "data": "Northern Africa"
+    },
+    {
+        "name": "Suriname",
+        "data": "South America"
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "data": "Nordic Countries"
+    },
+    {
+        "name": "Swaziland",
+        "data": "Southern Africa"
+    },
+    {
+        "name": "Sweden",
+        "data": "Nordic Countries"
+    },
+    {
+        "name": "Switzerland",
+        "data": "Western Europe"
+    },
+    {
+        "name": "Syria",
+        "data": "Middle East"
+    },
+    {
+        "name": "Tajikistan",
+        "data": "Southern and Central Asia"
+    },
+    {
+        "name": "Tanzania",
+        "data": "Eastern Africa"
+    },
+    {
+        "name": "Thailand",
+        "data": "Southeast Asia"
+    },
+    {
+        "name": "The Democratic Republic of Congo",
+        "data": "Central Africa"
+    },
+    {
+        "name": "Togo",
+        "data": "Western Africa"
+    },
+    {
+        "name": "Tokelau",
+        "data": "Polynesia"
+    },
+    {
+        "name": "Tonga",
+        "data": "Polynesia"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "data": "Caribbean"
+    },
+    {
+        "name": "Tunisia",
+        "data": "Northern Africa"
+    },
+    {
+        "name": "Turkey",
+        "data": "Middle East"
+    },
+    {
+        "name": "Turkmenistan",
+        "data": "Southern and Central Asia"
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "data": "Caribbean"
+    },
+    {
+        "name": "Tuvalu",
+        "data": "Polynesia"
+    },
+    {
+        "name": "Uganda",
+        "data": "Eastern Africa"
+    },
+    {
+        "name": "Ukraine",
+        "data": "Eastern Europe"
+    },
+    {
+        "name": "United Arab Emirates",
+        "data": "Middle East"
+    },
+    {
+        "name": "United Kingdom",
+        "data": "British Isles"
+    },
+    {
+        "name": "United States",
+        "data": "North America"
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "data": "Micronesia/Caribbean"
+    },
+    {
+        "name": "Uruguay",
+        "data": "South America"
+    },
+    {
+        "name": "Uzbekistan",
+        "data": "Southern and Central Asia"
+    },
+    {
+        "name": "Vanuatu",
+        "data": "Melanesia"
+    },
+    {
+        "name": "Venezuela",
+        "data": "South America"
+    },
+    {
+        "name": "Vietnam",
+        "data": "Southeast Asia"
+    },
+    {
+        "name": "Wales",
+        "data": "British Isles"
+    },
+    {
+        "name": "Wallis and Futuna",
+        "data": "Polynesia"
+    },
+    {
+        "name": "Western Sahara",
+        "data": "Northern Africa"
+    },
+    {
+        "name": "Yemen",
+        "data": "Middle East"
+    },
+    {
+        "name": "Yugoslavia",
+        "data": "Southern Europe"
+    },
+    {
+        "name": "Zambia",
+        "data": "Eastern Africa"
+    },
+    {
+        "name": "Zimbabwe",
+        "data": "Eastern Africa"
+    }
+]

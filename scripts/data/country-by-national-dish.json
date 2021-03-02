@@ -1,0 +1,677 @@
+[
+    {
+        "name": "Afghanistan",
+        "data": "Kabuli Palaw"
+    },
+    {
+        "name": "Albania",
+        "data": "Tavë kosi"
+    },
+    {
+        "name": "Algeria",
+        "data": "Couscous "
+    },
+    
+    
+    {
+        "name": "Angola",
+        "data": "Moamba de galinha "
+    },
+    
+    
+    {
+        "name": "Antigua and Barbuda",
+        "data": "Pepperpot, Fungee"
+    },
+    {
+        "name": "Argentina",
+        "data": "Asado"
+    },
+    {
+        "name": "Armenia",
+        "data": "Harissa, Dolma, Khorovats"
+    },
+    {
+        "name": "Aruba",
+        "data": "Keshi yena"
+    },
+    {
+        "name": "Australia",
+        "data": "Meat pie,Roast lamb "
+    },
+    {
+        "name": "Austria",
+        "data": "Wiener schnitzel, Tafelspitz"
+    },
+    {
+        "name": "Azerbaijan",
+        "data": "Dolma"
+    },
+    {
+        "name": "Bahamas",
+        "data": "Crack conch with peas and rice "
+    },
+    {
+        "name": "Bahrain",
+        "data": "Machboos"
+    },
+    {
+        "name": "Bangladesh",
+        "data": "Rice, Fish, Chicken Korma"
+    },
+    {
+        "name": "Barbados",
+        "data": "Cou-Cou and Flying Fish "
+    },
+    {
+        "name": "Belarus",
+        "data": "Draniki"
+    },
+    {
+        "name": "Belgium",
+        "data": "Moules-frites"
+    },
+    {
+        "name": "Belize",
+        "data": "Boil up"
+    },
+    
+    {
+        "name": "Bermuda",
+        "data": "Bermuda fish chowder"
+    },
+    {
+        "name": "Bhutan",
+        "data": "Ema datshi"
+    },
+    {
+        "name": "Bolivia",
+        "data": "Salteñas"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "data": "Bosnian pot"
+    },
+    {
+        "name": "Botswana",
+        "data": "Seswaa"
+    },
+    
+    {
+        "name": "Brazil",
+        "data": "Feijoada"
+    },
+    
+    {
+        "name": "Brunei",
+        "data": "Ambuyat"
+    },
+    {
+        "name": "Bulgaria",
+        "data": "Banitsa, Bob chorba"
+    },
+    
+    
+    {
+        "name": "Cambodia",
+        "data": "Amok trey"
+    },
+    {
+        "name": "Cameroon",
+        "data": "Ndolé"
+    },
+    {
+        "name": "Canada",
+        "data": "Kraft Dinner"
+    },
+    {
+        "name": "Cape Verde",
+        "data": "Cachupa"
+    },
+    
+    
+    
+    {
+        "name": "Chile",
+        "data": "Empanada"
+    },
+    {
+        "name": "China",
+        "data": "Peking Duck"
+    },
+    
+    
+    {
+        "name": "Colombia",
+        "data": "Ajiaco, Bandeja paisa"
+    },
+    
+    
+    
+    {
+        "name": "Costa Rica",
+        "data": "Gallo pinto"
+    },
+    {
+        "name": "Croatia",
+        "data": "Istrian stew"
+    },
+    {
+        "name": "Cuba",
+        "data": "Ropa vieja, Moros y cristianos"
+    },
+    {
+        "name": "Cyprus",
+        "data": "Fasolada"
+    },
+    {
+        "name": "Czech Republic",
+        "data": "roast pork with dumplings and sauerkraut"
+    },
+    {
+        "name": "Denmark",
+        "data": "fried pork and potato-based data"
+    },
+    
+    {
+        "name": "Dominica",
+        "data": "Mountain chicken, Fish broth"
+    },
+    {
+        "name": "Dominican Republic",
+        "data": "rice, red beans, and meat"
+    },
+    
+    {
+        "name": "Ecuador",
+        "data": "Encebollado, Fritada,Guatitas,"
+    },
+    {
+        "name": "Egypt",
+        "data": "Ful medames, kushari,"
+    },
+    {
+        "name": "El Salvador",
+        "data": "Pupusa"
+    },
+    {
+        "name": "England",
+        "data": "Beef,(especially roast beef/corned beef),Pudding "
+    },
+    
+    {
+        "name": "Eritrea",
+        "data": "Zigini with injera, Gored gored, raw meat"
+    },
+    {
+        "name": "Estonia",
+        "data": "sauerkraut stew"
+    },
+    {
+        "name": "Ethiopia",
+        "data": "Wat with injera, Fit-fit"
+    },
+    
+    
+    
+    {
+        "name": "Finland",
+        "data": "Karjalanpaisti,Mämmi, Sautéed reindeer"
+    },
+    {
+        "name": "France",
+        "data": "Crêpe, Pot-au-feu,Macaron, Bisque"
+    },
+    
+    
+    
+    {
+        "name": "Gabon",
+        "data": "Poulet Nyembwe"
+    },
+    
+    {
+        "name": "Georgia",
+        "data": "Khachapuri, khinkali"
+    },
+    {
+        "name": "Germany",
+        "data": "Currywurst, Sauerbraten, Bratwurst"
+    },
+    {
+        "name": "Ghana",
+        "data": "Fufu"
+    },
+    
+    {
+        "name": "Greece",
+        "data": "Fasolada,Moussaka, Souvlaki"
+    },
+    {
+        "name": "Greenland",
+        "data": "Kiviak"
+    },
+    {
+        "name": "Grenada",
+        "data": "Oil Down"
+    },
+    
+    
+    {
+        "name": "Guatemala",
+        "data": "Fiambre, Pepian (hearty meat stew)"
+    },
+    
+    
+    {
+        "name": "Guyana",
+        "data": "Pepperpot"
+    },
+    {
+        "name": "Haiti",
+        "data": "Red beans and rice "
+    },
+    
+    
+    {
+        "name": "Honduras",
+        "data": "Baleada, Carne asada, Sopa de Caracol (Conch Soup)"
+    },
+    {
+        "name": "Hong Kong",
+        "data": "Char siu"
+    },
+    {
+        "name": "Hungary",
+        "data": "Gulyás,"
+    },
+    {
+        "name": "Iceland",
+        "data": "Hákarl, Þorramatur"
+    },
+    {
+        "name": "India",
+        "data": "No officially announced national data"
+    },
+    {
+        "name": "Indonesia",
+        "data": "Tumpeng Sate,Soto,Nasi goreng"
+    },
+    {
+        "name": "Iran",
+        "data": "Chelo kabab, Ghormeh sabzi"
+    },
+    {
+        "name": "Iraq",
+        "data": "Samak masgouf,Kleicha"
+    },
+    {
+        "name": "Ireland",
+        "data": "Colcannon,Irish stew "
+    },
+    {
+        "name": "Israel",
+        "data": "Hummus, falafel, Meorav Yerushalmi"
+    },
+    {
+        "name": "Italy",
+        "data": "Pasta,Polenta,Pizza, Risotto"
+    },
+    {
+        "name": "Ivory Coast",
+        "data": "Fufu, Kedjenou"
+    },
+    {
+        "name": "Jamaica",
+        "data": "Ackee and Saltfish, Jamaican patty"
+    },
+    {
+        "name": "Japan",
+        "data": "Sushi, Japanese curry,Ramen "
+    },
+    {
+        "name": "Jordan",
+        "data": "Mansaf"
+    },
+    
+    {
+        "name": "Kenya",
+        "data": "Ugali, Sukuma wiki, Nyama choma"
+    },
+    
+    {
+        "name": "Kuwait",
+        "data": "Machboos"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "data": "Beshbarmak, Laghman, Kuurdak"
+    },
+    {
+        "name": "Laos",
+        "data": "Tum Mak Hoong (Som Tum, its Thai name)"
+    },
+    {
+        "name": "Latvia",
+        "data": "Latke"
+    },
+    {
+        "name": "Lebanon",
+        "data": "Kibbeh"
+    },
+    
+    
+    
+    
+    {
+        "name": "Lithuania",
+        "data": "Cepelinai"
+    },
+    {
+        "name": "Luxembourg",
+        "data": "Judd mat Gaardebounen, Bouneschlupp"
+    },
+    
+    {
+        "name": "Macedonia",
+        "data": "Tavče Gravče"
+    },
+    {
+        "name": "Madagascar",
+        "data": "Romazava "
+    },
+    
+    {
+        "name": "Malaysia",
+        "data": "Nasi lemak,Satay, Laksa, Roti canai"
+    },
+    
+    
+    {
+        "name": "Malta",
+        "data": "Pastizzi, Rabbit Stew (Fenkata)"
+    },
+    
+    
+    {
+        "name": "Mauritania",
+        "data": "Thieboudienne, Couscous"
+    },
+    
+    
+    {
+        "name": "Mexico",
+        "data": "Tacos, Mole poblano,Chiles en nogada"
+    },
+    
+    {
+        "name": "Moldova",
+        "data": "Mămăligă, Sarmale, Răcituri"
+    },
+    
+    {
+        "name": "Mongolia",
+        "data": "Buuz"
+    },
+    
+    {
+        "name": "Morocco",
+        "data": "Couscous, Tagine"
+    },
+    
+    
+    
+    
+    {
+        "name": "Nepal",
+        "data": "Dal bhat"
+    },
+    {
+        "name": "Netherlands",
+        "data": "Stamppot, hutspot"
+    },
+    
+    
+    {
+        "name": "New Zealand",
+        "data": "Bacon and egg pie, lamb, pavlova"
+    },
+    {
+        "name": "Nicaragua",
+        "data": "Gallo pinto "
+    },
+    
+    {
+        "name": "Nigeria",
+        "data": "Jollof rice"
+    },
+    
+    
+    {
+        "name": "North Korea",
+        "data": "Galbi, Kimchi"
+    },
+    {
+        "name": "Northern Ireland",
+        "data": "Ulster fry"
+    },
+    
+    {
+        "name": "Norway",
+        "data": "Fårikål"
+    },
+    
+    {
+        "name": "Pakistan",
+        "data": "Biryani, Nihari"
+    },
+    
+    {
+        "name": "Palestine",
+        "data": "Arab salad, Falafel, Mujaddara, Musakhan, Hummus with tahini"
+    },
+    {
+        "name": "Panama",
+        "data": "Sancocho de gallina"
+    },
+    
+    {
+        "name": "Paraguay",
+        "data": "Sopa paraguaya"
+    },
+    {
+        "name": "Peru",
+        "data": "Ceviche"
+    },
+    {
+        "name": "Philippines",
+        "data": "Adobo,Lechon (both unofficial)"
+    },
+    
+    {
+        "name": "Poland",
+        "data": "Bigos, Pierogi,Kotlet schabowy, Żurek"
+    },
+    {
+        "name": "Portugal",
+        "data": "Bacalhau"
+    },
+    {
+        "name": "Puerto Rico",
+        "data": "Arroz con gandules, Mofongo"
+    },
+    
+    
+    {
+        "name": "Romania",
+        "data": "Mămăligă, Sarmale, Mici"
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    {
+        "name": "San Marino",
+        "data": "Torta Tre Monti"
+    },
+    
+    {
+        "name": "Saudi Arabia",
+        "data": "Kabsa"
+    },
+    {
+        "name": "Scotland",
+        "data": "Haggis"
+    },
+    {
+        "name": "Senegal",
+        "data": "Thieboudienne"
+    },
+    
+    
+    {
+        "name": "Singapore",
+        "data": "Chilli crab,Hainanese Chicken Rice"
+    },
+    {
+        "name": "Slovakia",
+        "data": "Bryndzové halušky"
+    },
+    {
+        "name": "Slovenia",
+        "data": "Ajdovi žganci, Belokranjska povitica, Obara"
+    },
+    
+    {
+        "name": "Somalia",
+        "data": "Canjeero with goat stew"
+    },
+    {
+        "name": "South Africa",
+        "data": "Bobotie"
+    },
+    
+    {
+        "name": "South Korea",
+        "data": "Kimchi, bulgogi"
+    },
+    
+    {
+        "name": "Spain",
+        "data": "Tortilla española "
+    },
+    
+    {
+        "name": "Sudan",
+        "data": "Ful medames"
+    },
+    
+    
+    
+    {
+        "name": "Sweden",
+        "data": "Köttbullar, Kräftskiva,Surströmming,Ostkaka"
+    },
+    {
+        "name": "Switzerland",
+        "data": "Cervelat,Fondue, Rösti"
+    },
+    {
+        "name": "Syria",
+        "data": "Kibbeh"
+    },
+    {
+        "name": "Tajikistan",
+        "data": "O'sh (pilaf)"
+    },
+    {
+        "name": "Tanzania",
+        "data": "Ugali"
+    },
+    {
+        "name": "Thailand",
+        "data": "Pad Thai, Tom Yum Goong"
+    },
+    
+    
+    
+    
+    {
+        "name": "Trinidad and Tobago",
+        "data": "Callaloo,Doubles"
+    },
+    {
+        "name": "Tunisia",
+        "data": "Couscous, Kabkabou"
+    },
+    {
+        "name": "Turkey",
+        "data": "Döner kebab, Kuru fasulye with pilav"
+    },
+    {
+        "name": "Turkmenistan",
+        "data": "Palaw"
+    },
+    
+    
+    {
+        "name": "Uganda",
+        "data": "Matoke"
+    },
+    {
+        "name": "Ukraine",
+        "data": "Borscht, Varenyky "
+    },
+    
+    {
+        "name": "United Kingdom",
+        "data": "Fish and chips,Chicken tikka masala (Indian-British curry)"
+    },
+    {
+        "name": "United States",
+        "data": "Hamburger, Hot dog, Fried chicken, Buffalo wings, Apple pie"
+    },
+    
+    {
+        "name": "Uruguay",
+        "data": "Asado, Chivito"
+    },
+    {
+        "name": "Uzbekistan",
+        "data": "O'sh"
+    },
+    {
+        "name": "Vanuatu",
+        "data": "Lap lap"
+    },
+    {
+        "name": "Venezuela",
+        "data": "Pabellón criollo"
+    },
+    {
+        "name": "Vietnam",
+        "data": "Phở, Bún bò Huế"
+    },
+    
+    
+    {
+        "name": "Wales",
+        "data": "Cawl"
+    },
+    
+    
+    {
+        "name": "Yemen",
+        "data": "Saltah"
+    },
+    
+    
+    {
+        "name": "Zimbabwe",
+        "data": "Sadza"
+    }
+]

@@ -1,0 +1,238 @@
+[
+    {
+      "name": "The Lord of the Rings",
+      "data": "J. R. R. Tolkien"
+    },
+    {
+      "name": "Le Petit Prince (The Little Prince)",
+      "data": "Antoine de Saint-Exupéry"
+    },
+    {
+      "name": "Harry Potter and the Philosopher's Stone",
+      "data": "J. K. Rowling"
+    },
+    {
+      "name": "The Hobbit",
+      "data": "J. R. R. Tolkien"
+    },
+    {
+      "name": "And Then There Were None",
+      "data": "Agatha Christie"
+    },
+    {
+      "name": "Dream of the Red Chamber",
+      "data": "Cao Xueqin"
+    },
+    {
+      "name": "The Lion, the Witch and the Wardrobe",
+      "data": "C. S. Lewis"
+    },
+    {
+      "name": "She: A History of Adventure",
+      "data": "H. Rider Haggard"
+    },
+    {
+      "name": "Le avventure di Pinocchio. Storia di un burattino (The Adventures of Pinocchio)",
+      "data": "Carlo Collodi"
+    },
+    {
+      "name": "Vardi Wala Gunda",
+      "data": "Ved Prakash Sharma"
+    },
+    {
+      "name": "The Da Vinci Code",
+      "data": "Dan Brown"
+    },
+    {
+      "name": "Harry Potter and the Chamber of Secrets",
+      "data": "J. K. Rowling"
+    },
+    {
+      "name": "Harry Potter and the Prisoner of Azkaban",
+      "data": "J. K. Rowling"
+    },
+    {
+      "name": "Harry Potter and the Goblet of Fire",
+      "data": "J. K. Rowling"
+    },
+    {
+      "name": "Harry Potter and the Order of the Phoenix",
+      "data": "J. K. Rowling"
+    },
+    {
+      "name": "Harry Potter and the Half-Blood Prince",
+      "data": "J. K. Rowling"
+    },
+    {
+      "name": "Harry Potter and the Deathly Hallows",
+      "data": "J. K. Rowling"
+    },
+    {
+      "name": "The Alchemist",
+      "data": "Paulo Coelho"
+    },
+    {
+      "name": "The Catcher in the Rye",
+      "data": "J. D. Salinger"
+    },
+    {
+      "name": "Think and Grow Rich",
+      "data": "Napoleon Hill"
+    },
+    {
+      "name": "The Bridges of Madison County",
+      "data": "Robert James Waller"
+    },
+    {
+      "name": "Ben-Hur: A Tale of the Christ",
+      "data": "Lew Wallace"
+    },
+    {
+      "name": "You Can Heal Your Life",
+      "data": "Louise Hay"
+    },
+    {
+      "name": "Cien años de soledad (One Hundred Years of Solitude)",
+      "data": "Gabriel García Márquez"
+    },
+    {
+      "name": "Lolita",
+      "data": "Vladimir Nabokov"
+    },
+    {
+      "name": "Heidis Lehr- und Wanderjahre (Heidi's Years of Learning and Travel)",
+      "data": "Johanna Spyri"
+    },
+    {
+      "name": "The Common Sense Book of Baby and Child Care",
+      "data": "Dr. Benjamin Spock"
+    },
+    {
+      "name": "Anne of Green Gables",
+      "data": "Lucy Maud Montgomery"
+    },
+    {
+      "name": "Black Beauty",
+      "data": "Anna Sewell"
+    },
+    {
+      "name": "Il Nome della Rosa (The Name of the Rose)",
+      "data": "Umberto Eco"
+    },
+    {
+      "name": "The Eagle Has Landed",
+      "data": "Jack Higgins"
+    },
+    {
+      "name": "Watership Down",
+      "data": "Richard Adams"
+    },
+    {
+      "name": "The Hite Report",
+      "data": "Shere Hite"
+    },
+    {
+      "name": "Charlotte's Web",
+      "data": "E.B. White; illustrated by Garth Williams"
+    },
+    {
+      "name": "The Ginger Man",
+      "data": "J. P. Donleavy"
+    },
+    {
+      "name": "The Tale of Peter Rabbit",
+      "data": "Beatrix Potter"
+    },
+    {
+      "name": "Jonathan Livingston Seagull",
+      "data": "Richard Bach"
+    },
+    {
+      "name": "The Very Hungry Caterpillar",
+      "data": "Eric Carle"
+    },
+    {
+      "name": "A Message to Garcia",
+      "data": "Elbert Hubbard"
+    },
+    {
+      "name": "Sofies verden (Sophie's World)",
+      "data": "Jostein Gaarder"
+    },
+    {
+      "name": "Flowers in the Attic",
+      "data": "V. C. Andrews"
+    },
+    {
+      "name": "To Kill a Mockingbird",
+      "data": "Harper Lee"
+    },
+    {
+      "name": "Angels & Demons",
+      "data": "Dan Brown"
+    },
+    {
+      "name": "Kane and Abel",
+      "data": "Jeffrey Archer"
+    },
+    {
+      "name": "Как закалялась сталь (Kak zakalyalas' stal'; How the Steel Was Tempered)",
+      "data": "Nikolai Ostrovsky"
+    },
+    {
+      "name": "Война и мир (Voyna i mir; War and Peace)",
+      "data": "Leo Tolstoy"
+    },
+    {
+      "name": "Het Achterhuis (The Diary of a Young Girl, The Diary of Anne Frank)",
+      "data": "Anne Frank"
+    },
+    {
+      "name": "Your Erroneous Zones",
+      "data": "Wayne Dyer"
+    },
+    {
+      "name": "The Purpose Driven Life",
+      "data": "Rick Warren"
+    },
+    {
+      "name": "The Thorn Birds",
+      "data": "Colleen McCullough"
+    },
+    {
+      "name": "The Kite Runner",
+      "data": "Khaled Hosseini"
+    },
+    {
+      "name": "Valley of the Dolls",
+      "data": "Jacqueline Susann"
+    },
+    {
+      "name": "The Lost Symbol",
+      "data": "Dan Brown"
+    },
+    {
+      "name": "Gone with the Wind",
+      "data": "Margaret Mitchell"
+    },
+    {
+      "name": "Nineteen Eighty-Four",
+      "data": "George Orwell"
+    },
+    {
+      "name": "The Revolt of Mamie Stover",
+      "data": "William Bradford Huie"
+    },
+    {
+      "name": "Män som hatar kvinnor (The Girl with the Dragon Tattoo)",
+      "data": "Stieg Larsson"
+    },
+    {
+      "name": "The Great Gatsby",
+      "data": "F. Scott Fitzgerald"
+    },
+    {
+      "name": "Rebecca",
+      "data": "Daphne du Maurier"
+    }
+   ]

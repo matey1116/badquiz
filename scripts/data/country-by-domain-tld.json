@@ -1,0 +1,949 @@
+[{
+  "name": "Afghanistan",
+  "data": ".af"
+},
+{
+  "name": "Albania",
+  "data": ".al"
+},
+{
+  "name": "Algeria",
+  "data": ".dz"
+},
+{
+  "name": "American Samoa",
+  "data": ".as"
+},
+{
+  "name": "Andorra",
+  "data": ".ad"
+},
+{
+  "name": "Angola",
+  "data": ".ao"
+},
+{
+  "name": "Anguilla",
+  "data": ".ai"
+},
+{
+  "name": "Antarctica",
+  "data": ".aq"
+},
+{
+  "name": "Antigua and Barbuda",
+  "data": ".ag"
+},
+{
+  "name": "Argentina",
+  "data": ".ar"
+},
+{
+  "name": "Armenia",
+  "data": ".am"
+},
+{
+  "name": "Aruba",
+  "data": ".aw"
+},
+{
+  "name": "Australia",
+  "data": ".au"
+},
+{
+  "name": "Austria",
+  "data": ".at"
+},
+{
+  "name": "Azerbaijan",
+  "data": ".az"
+},
+{
+  "name": "Bahamas",
+  "data": ".bs"
+},
+{
+  "name": "Bahrain",
+  "data": ".bh"
+},
+{
+  "name": "Bangladesh",
+  "data": ".bd"
+},
+{
+  "name": "Barbados",
+  "data": ".bb"
+},
+{
+  "name": "Belarus",
+  "data": ".by"
+},
+{
+  "name": "Belgium",
+  "data": ".be"
+},
+{
+  "name": "Belize",
+  "data": ".bz"
+},
+{
+  "name": "Benin",
+  "data": ".bj"
+},
+{
+  "name": "Bermuda",
+  "data": ".bm"
+},
+{
+  "name": "Bhutan",
+  "data": ".bt"
+},
+{
+  "name": "Bolivia",
+  "data": ".bo"
+},
+{
+  "name": "Bosnia and Herzegovina",
+  "data": ".ba"
+},
+{
+  "name": "Botswana",
+  "data": ".bw"
+},
+{
+  "name": "Bouvet Island",
+  "data": ".bv"
+},
+{
+  "name": "Brazil",
+  "data": ".br"
+},
+{
+  "name": "British Indian Ocean Territory",
+  "data": ".io"
+},
+{
+  "name": "Brunei",
+  "data": ".bn"
+},
+{
+  "name": "Bulgaria",
+  "data": ".bg"
+},
+{
+  "name": "Burkina Faso",
+  "data": ".bf"
+},
+{
+  "name": "Burundi",
+  "data": ".bi"
+},
+{
+  "name": "Cambodia",
+  "data": ".kh"
+},
+{
+  "name": "Cameroon",
+  "data": ".cm"
+},
+{
+  "name": "Canada",
+  "data": ".ca"
+},
+{
+  "name": "Cape Verde",
+  "data": ".cv"
+},
+{
+  "name": "Cayman Islands",
+  "data": ".ky"
+},
+{
+  "name": "Central African Republic",
+  "data": ".cf"
+},
+{
+  "name": "Chad",
+  "data": ".td"
+},
+{
+  "name": "Chile",
+  "data": ".cl"
+},
+{
+  "name": "China",
+  "data": ".cn"
+},
+{
+  "name": "Christmas Island",
+  "data": ".cx"
+},
+{
+  "name": "Cocos (Keeling) Islands",
+  "data": ".cc"
+},
+{
+  "name": "Colombia",
+  "data": ".co"
+},
+{
+  "name": "Comoros",
+  "data": ".km"
+},
+{
+  "name": "Congo",
+  "data": ".cg"
+},
+{
+  "name": "Cook Islands",
+  "data": ".ck"
+},
+{
+  "name": "Costa Rica",
+  "data": ".cr"
+},
+{
+  "name": "Croatia",
+  "data": ".hr"
+},
+{
+  "name": "Cuba",
+  "data": ".cu"
+},
+{
+  "name": "Cyprus",
+  "data": ".cy"
+},
+{
+  "name": "Czech Republic",
+  "data": ".cz"
+},
+{
+  "name": "Denmark",
+  "data": ".dk"
+},
+{
+  "name": "Djibouti",
+  "data": ".dj"
+},
+{
+  "name": "Dominica",
+  "data": ".dm"
+},
+{
+  "name": "Dominican Republic",
+  "data": ".do"
+},
+{
+  "name": "East Timor",
+  "data": ".tl"
+},
+{
+  "name": "Ecuador",
+  "data": ".ec"
+},
+{
+  "name": "Egypt",
+  "data": ".eg"
+},
+{
+  "name": "El Salvador",
+  "data": ".sv"
+},
+
+{
+  "name": "Equatorial Guinea",
+  "data": ".gq"
+},
+{
+  "name": "Eritrea",
+  "data": ".er"
+},
+{
+  "name": "Estonia",
+  "data": ".ee"
+},
+{
+  "name": "Ethiopia",
+  "data": ".et"
+},
+{
+  "name": "Falkland Islands",
+  "data": ".fk"
+},
+
+{
+  "name": "Fiji Islands",
+  "data": ".fj"
+},
+{
+  "name": "Finland",
+  "data": ".fi"
+},
+{
+  "name": "France",
+  "data": ".fr"
+},
+{
+  "name": "French Guiana",
+  "data": ".gf"
+},
+{
+  "name": "French Polynesia",
+  "data": ".pf"
+},
+{
+  "name": "French Southern territories",
+  "data": ".tf"
+},
+{
+  "name": "Gabon",
+  "data": ".ga"
+},
+{
+  "name": "Gambia",
+  "data": ".gm"
+},
+{
+  "name": "Georgia",
+  "data": ".ge"
+},
+{
+  "name": "Germany",
+  "data": ".de"
+},
+{
+  "name": "Ghana",
+  "data": ".gh"
+},
+{
+  "name": "Gibraltar",
+  "data": ".gi"
+},
+{
+  "name": "Greece",
+  "data": ".gr"
+},
+{
+  "name": "Greenland",
+  "data": ".gl"
+},
+{
+  "name": "Grenada",
+  "data": ".gd"
+},
+{
+  "name": "Guadeloupe",
+  "data": ".gp"
+},
+{
+  "name": "Guam",
+  "data": ".gu"
+},
+{
+  "name": "Guatemala",
+  "data": ".gt"
+},
+{
+  "name": "Guinea",
+  "data": ".gn"
+},
+{
+  "name": "Guinea-Bissau",
+  "data": ".gw"
+},
+{
+  "name": "Guyana",
+  "data": ".gy"
+},
+{
+  "name": "Haiti",
+  "data": ".ht"
+},
+{
+  "name": "Heard Island and McDonald Islands",
+  "data": ".hm"
+},
+{
+  "name": "Holy See (Vatican City State)",
+  "data": ".va"
+},
+{
+  "name": "Honduras",
+  "data": ".hn"
+},
+{
+  "name": "Hong Kong",
+  "data": ".hk"
+},
+{
+  "name": "Hungary",
+  "data": ".hu"
+},
+{
+  "name": "Iceland",
+  "data": ".is"
+},
+{
+  "name": "India",
+  "data": ".in"
+},
+{
+  "name": "Indonesia",
+  "data": ".id"
+},
+{
+  "name": "Iran",
+  "data": ".ir"
+},
+{
+  "name": "Iraq",
+  "data": ".iq"
+},
+{
+  "name": "Ireland",
+  "data": ".ie"
+},
+{
+  "name": "Israel",
+  "data": ".il"
+},
+{
+  "name": "Italy",
+  "data": ".it"
+},
+{
+  "name": "Ivory Coast",
+  "data": ".ci"
+},
+{
+  "name": "Jamaica",
+  "data": ".jm"
+},
+{
+  "name": "Japan",
+  "data": ".jp"
+},
+{
+  "name": "Jordan",
+  "data": ".jo"
+},
+{
+  "name": "Kazakstan",
+  "data": ".kz"
+},
+{
+  "name": "Kenya",
+  "data": ".ke"
+},
+{
+  "name": "Kiribati",
+  "data": ".ki"
+},
+{
+  "name": "Kuwait",
+  "data": ".kw"
+},
+{
+  "name": "Kyrgyzstan",
+  "data": ".kg"
+},
+{
+  "name": "Laos",
+  "data": ".la"
+},
+{
+  "name": "Latvia",
+  "data": ".lv"
+},
+{
+  "name": "Lebanon",
+  "data": ".lb"
+},
+{
+  "name": "Lesotho",
+  "data": ".ls"
+},
+{
+  "name": "Liberia",
+  "data": ".lr"
+},
+{
+  "name": "Libyan Arab Jamahiriya",
+  "data": ".ly"
+},
+{
+  "name": "Liechtenstein",
+  "data": ".li"
+},
+{
+  "name": "Lithuania",
+  "data": ".lt"
+},
+{
+  "name": "Luxembourg",
+  "data": ".lu"
+},
+{
+  "name": "Macao",
+  "data": ".mo"
+},
+{
+  "name": "Macedonia",
+  "data": ".mk"
+},
+{
+  "name": "Madagascar",
+  "data": ".mg"
+},
+{
+  "name": "Malawi",
+  "data": ".mw"
+},
+{
+  "name": "Malaysia",
+  "data": ".my"
+},
+{
+  "name": "Maldives",
+  "data": ".mv"
+},
+{
+  "name": "Mali",
+  "data": ".ml"
+},
+{
+  "name": "Malta",
+  "data": ".mt"
+},
+{
+  "name": "Marshall Islands",
+  "data": ".mh"
+},
+{
+  "name": "Martinique",
+  "data": ".mq"
+},
+{
+  "name": "Mauritania",
+  "data": ".mr"
+},
+{
+  "name": "Mauritius",
+  "data": ".mu"
+},
+{
+  "name": "Mayotte",
+  "data": ".yt"
+},
+{
+  "name": "Mexico",
+  "data": ".mx"
+},
+
+{
+  "name": "Moldova",
+  "data": ".md"
+},
+{
+  "name": "Monaco",
+  "data": ".mc"
+},
+{
+  "name": "Mongolia",
+  "data": ".mn"
+},
+{
+  "name": "Montserrat",
+  "data": ".ms"
+},
+{
+  "name": "Morocco",
+  "data": ".ma"
+},
+{
+  "name": "Mozambique",
+  "data": ".mz"
+},
+{
+  "name": "Myanmar",
+  "data": ".mm"
+},
+{
+  "name": "Namibia",
+  "data": ".na"
+},
+{
+  "name": "Nauru",
+  "data": ".nr"
+},
+{
+  "name": "Nepal",
+  "data": ".np"
+},
+{
+  "name": "Netherlands",
+  "data": ".nl"
+},
+{
+  "name": "Netherlands Antilles",
+  "data": ".an"
+},
+{
+  "name": "New Caledonia",
+  "data": ".nc"
+},
+{
+  "name": "New Zealand",
+  "data": ".nz"
+},
+{
+  "name": "Nicaragua",
+  "data": ".ni"
+},
+{
+  "name": "Niger",
+  "data": ".ne"
+},
+{
+  "name": "Nigeria",
+  "data": ".ng"
+},
+{
+  "name": "Niue",
+  "data": ".nu"
+},
+{
+  "name": "Norfolk Island",
+  "data": ".nf"
+},
+{
+  "name": "North Korea",
+  "data": ".kp"
+},
+
+{
+  "name": "Northern Mariana Islands",
+  "data": ".mp"
+},
+{
+  "name": "Norway",
+  "data": ".no"
+},
+{
+  "name": "Oman",
+  "data": ".om"
+},
+{
+  "name": "Pakistan",
+  "data": ".pk"
+},
+{
+  "name": "Palau",
+  "data": ".pw"
+},
+{
+  "name": "Palestine",
+  "data": ".ps"
+},
+{
+  "name": "Panama",
+  "data": ".pa"
+},
+{
+  "name": "Papua New Guinea",
+  "data": ".pg"
+},
+{
+  "name": "Paraguay",
+  "data": ".py"
+},
+{
+  "name": "Peru",
+  "data": ".pe"
+},
+{
+  "name": "Philippines",
+  "data": ".ph"
+},
+{
+  "name": "Pitcairn",
+  "data": ".pn"
+},
+{
+  "name": "Poland",
+  "data": ".pl"
+},
+{
+  "name": "Portugal",
+  "data": ".pt"
+},
+{
+  "name": "Puerto Rico",
+  "data": ".pr"
+},
+{
+  "name": "Qatar",
+  "data": ".qa"
+},
+{
+  "name": "Reunion",
+  "data": ".re"
+},
+{
+  "name": "Romania",
+  "data": ".ro"
+},
+{
+  "name": "Russian Federation",
+  "data": ".ru"
+},
+{
+  "name": "Rwanda",
+  "data": ".rw"
+},
+{
+  "name": "Saint Helena",
+  "data": ".sh"
+},
+{
+  "name": "Saint Kitts and Nevis",
+  "data": ".kn"
+},
+{
+  "name": "Saint Lucia",
+  "data": ".lc"
+},
+{
+  "name": "Saint Pierre and Miquelon",
+  "data": ".pm"
+},
+{
+  "name": "Saint Vincent and the Grenadines",
+  "data": ".vc"
+},
+{
+  "name": "Samoa",
+  "data": ".ws"
+},
+{
+  "name": "San Marino",
+  "data": ".sm"
+},
+{
+  "name": "Sao Tome and Principe",
+  "data": ".st"
+},
+{
+  "name": "Saudi Arabia",
+  "data": ".sa"
+},
+
+{
+  "name": "Senegal",
+  "data": ".sn"
+},
+{
+  "name": "Seychelles",
+  "data": ".sc"
+},
+{
+  "name": "Sierra Leone",
+  "data": ".sl"
+},
+{
+  "name": "Singapore",
+  "data": ".sg"
+},
+{
+  "name": "Slovakia",
+  "data": ".sk"
+},
+{
+  "name": "Slovenia",
+  "data": ".si"
+},
+{
+  "name": "Solomon Islands",
+  "data": ".sb"
+},
+{
+  "name": "Somalia",
+  "data": ".so"
+},
+{
+  "name": "South Africa",
+  "data": ".za"
+},
+{
+  "name": "South Georgia and the South Sandwich Islands",
+  "data": ".gs"
+},
+{
+  "name": "South Korea",
+  "data": ".kr"
+},
+{
+  "name": "South Sudan",
+  "data": ".ss"
+},
+{
+  "name": "Spain",
+  "data": ".es"
+},
+{
+  "name": "SriLanka",
+  "data": ".lk"
+},
+{
+  "name": "Sudan",
+  "data": ".sd"
+},
+{
+  "name": "Suriname",
+  "data": ".sr"
+},
+{
+  "name": "Svalbard and Jan Mayen",
+  "data": ".sj"
+},
+{
+  "name": "Swaziland",
+  "data": ".sz"
+},
+{
+  "name": "Sweden",
+  "data": ".se"
+},
+{
+  "name": "Switzerland",
+  "data": ".ch"
+},
+{
+  "name": "Syria",
+  "data": ".sy"
+},
+{
+  "name": "Tajikistan",
+  "data": ".tj"
+},
+{
+  "name": "Tanzania",
+  "data": ".tz"
+},
+{
+  "name": "Thailand",
+  "data": ".th"
+},
+{
+  "name": "The Democratic Republic of Congo",
+  "data": ".cd"
+},
+{
+  "name": "Togo",
+  "data": ".tg"
+},
+{
+  "name": "Tokelau",
+  "data": ".tk"
+},
+{
+  "name": "Tonga",
+  "data": ".to"
+},
+{
+  "name": "Trinidad and Tobago",
+  "data": ".tt"
+},
+{
+  "name": "Tunisia",
+  "data": ".tn"
+},
+{
+  "name": "Turkey",
+  "data": ".tr"
+},
+{
+  "name": "Turkmenistan",
+  "data": ".tm"
+},
+{
+  "name": "Turks and Caicos Islands",
+  "data": ".tc"
+},
+{
+  "name": "Tuvalu",
+  "data": ".tv"
+},
+{
+  "name": "Uganda",
+  "data": ".ug"
+},
+{
+  "name": "Ukraine",
+  "data": ".ua"
+},
+{
+  "name": "United Arab Emirates",
+  "data": ".ae"
+},
+{
+  "name": "United Kingdom",
+  "data": ".gb"
+},
+{
+  "name": "United States",
+  "data": ".us"
+},
+
+{
+  "name": "Uruguay",
+  "data": ".uy"
+},
+{
+  "name": "Uzbekistan",
+  "data": ".uz"
+},
+{
+  "name": "Vanuatu",
+  "data": ".vu"
+},
+{
+  "name": "Venezuela",
+  "data": ".ve"
+},
+{
+  "name": "Vietnam",
+  "data": ".vn"
+},
+{
+  "name": "Virgin Islands, British",
+  "data": ".vg"
+},
+{
+  "name": "Virgin Islands, U.S.",
+  "data": ".vi"
+},
+
+{
+  "name": "Wallis and Futuna",
+  "data": ".wf"
+},
+{
+  "name": "Western Sahara",
+  "data": ".eh"
+},
+{
+  "name": "Yemen",
+  "data": ".ye"
+},
+
+{
+  "name": "Zambia",
+  "data": ".zm"
+},
+{
+  "name": "Zimbabwe",
+  "data": ".zw"
+}
+]
