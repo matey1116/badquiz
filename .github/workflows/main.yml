@@ -27,6 +27,8 @@ jobs:
           SSH_KEY: ${{ secrets.SSH_RSA }}
           SSH_HOST: ${{ secrets.SERVER_IP }}
 
+      - name: Test
+        run: echo $GITHUB_SHA
       - name: Clone repository
         run: ssh staging 'git clone https://github.com/${{github.repository}} $GITHUB_SHA'
       - name: Build Dockerfile
