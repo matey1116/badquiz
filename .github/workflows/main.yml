@@ -1,35 +1,35 @@
-    name: CI
-    on:
-    # Trigger the workflow on push or pull request,
-    # but only for the main branch
-    push:
-        branches:
-        - master
-    jobs:
-    deploy:
-        name: "Deploy to hosting"
-        runs-on: ubuntu-latest
-        steps:
-        - name: Configure SSH
-            run: |
-            mkdir -p ~/.ssh/
-            echo "$SSH_KEY" > ~/.ssh/staging.key
-            chmod 600 ~/.ssh/staging.key
-            cat >>~/.ssh/config <<END
-            Host staging
-                HostName $SSH_HOST
-                User $SSH_USER
-                IdentityFile ~/.ssh/staging.key
-                StrictHostKeyChecking no
-            END
-            env:
-            SSH_USER: ${{ secrets.SERVER_USER }}
-            SSH_KEY: ${{ secrets.SSH_RSA }}
-            SSH_HOST: ${{ secrets.SERVER_IP }}
+name: CI
+on:
+  # Trigger the workflow on push or pull request,
+  # but only for the main branch
+  push:
+    branches:
+      - master
+jobs:
+  deploy:
+    name: "Deploy to hosting"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Configure SSH
+        run:
+          mkdir -p ~/.ssh/
+          echo "$SSH_KEY" > ~/.ssh/staging.key
+          chmod 600 ~/.ssh/staging.key
+          cat >>~/.ssh/config <<END
+          Host staging
+            HostName $SSH_HOST
+            User $SSH_USER
+            IdentityFile ~/.ssh/staging.key
+            StrictHostKeyChecking no
+          END
+        env:
+          SSH_USER: ${{ secrets.SERVER_USER }}
+          SSH_KEY: ${{ secrets.SSH_RSA }}
+          SSH_HOST: ${{ secrets.SERVER_IP }}
 
-        - name: Clone repository
-            run: ssh staging "git clone https://github.com/${{github.repository}} $GITHUB_SHA"
-        - name: Build Dockerfile
-            run: ssh staging "cd $GITHUB_SHA; docker build -t ${{github.repository}}-$GITHUB_SHA ."
-        - name: Start docker
-            run: ssh staging "docker run --restart unless-stopped -d -p 127.0.0.1:${{ secrets.DOCKER_PORT }}:3000 --name ${{github.repository}}-${{github.sha}}"
+      - name: Clone repository
+        run: ssh staging "git clone https://github.com/${{github.repository}} $GITHUB_SHA"
+      - name: Build Dockerfile
+        run: ssh staging "cd $GITHUB_SHA; docker build -t ${{github.repository}}-${{github.sha}} ."
+      - name: Start docker
+        run: ssh staging "docker run --restart unless-stopped -d -p 127.0.0.1:${{ secrets.DOCKER_PORT }}:3000 --name ${{github.repository}}-${{github.sha}}"
