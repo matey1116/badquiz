@@ -32,4 +32,4 @@ jobs:
       - name: Build Dockerfile
         run: ssh staging "cd $GITHUB_SHA; docker build -t ${{github.repository}}-${{github.sha}} ."
       - name: Start docker
-        run: ssh staging "docker run --restart unless-stopped -d -p 127.0.0.1:${{ secrets.DOCKER_PORT }}:3000 --name ${{github.repository}}-${{github.sha}}"
+        run: ssh staging "docker run --restart unless-stopped -d -p 127.0.0.1:${{ secrets.DOCKER_PORT }}:3000 --name badquiz ${{github.repository}}-${{github.sha}}"
