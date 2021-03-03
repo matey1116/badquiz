@@ -10,4 +10,4 @@ RUN npm ci --only=production
 
 USER node
 
-CMD "pm2-runtime" "start"
+CMD "pm2-runtime" "server.js"
