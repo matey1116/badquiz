@@ -14,6 +14,9 @@ app.use('/js', express.static('./static/js'))
 app.use('/fonts', express.static('./static/fonts'))
 app.use('/images', express.static('./static/images'))
 app.use('/help', express.static('./static/help.html'))
+app.get("/health", (req,res) => {
+    res.send("server is up");
+})
 app.use(router);
 
 app.listen(3000, () => console.log("Listening on 3000"));
