@@ -10,5 +10,4 @@ COPY . /usr/src/app
 RUN npm ci --only=production
 
 USER node
-
 CMD "pm2-runtime" "server.js"
